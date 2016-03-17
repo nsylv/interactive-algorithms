@@ -6,6 +6,6 @@ The collection of algorithms I have written
 * [Rabin Karp](algorithms/rabinkarp.py) ~ Rabin-Karp substring searching algorithm
 * [Rabin Karp Multi](algorithms/rabinkarpmulti.py) ~ Rabin-Karp substring searching algorithm for a list of patterns
 
-##Datatypes
+##ADTs
 The collection of abstract datatypes (ADTs) I have written
-* [Rolling Hash](datatypes/rollinghash.py) ~ Rolling Hash datatype
+* [Rolling Hash](adts/rollinghash.py) ~ Rolling Hash datatype
